@@ -1,0 +1,317 @@
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.AssemblyReference.cache
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Form1.resources
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.GenerateResource.cache
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfoInputs.cache
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfo.cs
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.exe
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.deps.json
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.runtimeconfig.json
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.pdb
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CopyComplete
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\refint\ProyectoMedicamento.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.pdb
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.genruntimeconfig.cache
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ref\ProyectoMedicamento.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Signup.resources
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu.resources
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Properties.Resources.resources
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\javid\Source\Repos\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.exe
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.deps.json
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.runtimeconfig.json
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.pdb
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Humanizer.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.AssemblyReference.cache
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Form1.resources
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu.resources
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu1.resources
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Properties.Resources.resources
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Signup.resources
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.GenerateResource.cache
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfoInputs.cache
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfo.cs
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CoreCompileInputs.cache
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CopyComplete
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\refint\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.pdb
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.genruntimeconfig.cache
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ref\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Lista.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.exe
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.deps.json
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.runtimeconfig.json
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.pdb
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.AssemblyReference.cache
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Form1.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu1.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Properties.Resources.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Signup.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.GenerateResource.cache
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfoInputs.cache
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfo.cs
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CoreCompileInputs.cache
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CopyComplete
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\refint\ProyectoMedicamento.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.pdb
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.genruntimeconfig.cache
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ref\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.exe
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.deps.json
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.runtimeconfig.json
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.pdb
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Humanizer.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.AssemblyReference.cache
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Form1.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Lista.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu1.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Properties.Resources.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Signup.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.GenerateResource.cache
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfoInputs.cache
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfo.cs
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CoreCompileInputs.cache
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CopyComplete
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\refint\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.pdb
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.genruntimeconfig.cache
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ref\ProyectoMedicamento.dll
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Calendar1.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.UserControlBlank.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.UserControlDays.resources
+H:\Clases\Proyecto 1\Proyecto\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Medicamento.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.exe
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.deps.json
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.runtimeconfig.json
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\ProyectoMedicamento.pdb
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Humanizer.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.AssemblyReference.cache
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Calendar1.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Form1.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Lista.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Medicamento.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Menu1.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Properties.Resources.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Signup.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.UserControlBlank.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.UserControlDays.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.GenerateResource.cache
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfoInputs.cache
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.AssemblyInfo.cs
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CoreCompileInputs.cache
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.csproj.CopyComplete
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\refint\ProyectoMedicamento.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.pdb
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.genruntimeconfig.cache
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ref\ProyectoMedicamento.dll
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Buscador.resources
+C:\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.History.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Buscador.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Calendar1.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.History.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Medicamento.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.UserControlBlank.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.UserControlDays.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Help.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\bin\Debug\net6.0-windows\Tulpep.NotificationWindow.dll
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Time.resources
+D:\Clases U\ProyectoMedicamento\ProyectoMedicamento\obj\Debug\net6.0-windows\ProyectoMedicamento.Schedule.resources
